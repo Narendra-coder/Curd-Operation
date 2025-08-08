@@ -1,0 +1,31 @@
+{
+  "student-data": [
+    {
+      "id": "2",
+      "name": "Mohan",
+      "age": "21",
+      "gender": "Male",
+      "email": "Rohan20@gmail.com",
+      "phone": "+91 7845126315",
+      "city": "rewa"
+    },
+    {
+      "id": "3",
+      "name": "Neha",
+      "age": "20",
+      "gender": "Female",
+      "email": "neha20@gmail.com",
+      "phone": "+91 7824568596",
+      "city": "rewa"
+    },
+    {
+      "id": "4",
+      "name": "Narendra",
+      "age": "25",
+      "gender": "Male",
+      "email": "narendrasolanki4422@gmail.com",
+      "phone": "+91 9753678490",
+      "city": "Indore"
+    }
+  ]
+}
